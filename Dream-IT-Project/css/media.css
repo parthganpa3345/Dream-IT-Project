@@ -1,0 +1,381 @@
+@media(max-width:500px) {
+    /* header start */
+    header {
+        display: none;
+    }
+    header .services {
+        width: 100%;
+        font-size: 15px;
+    }
+    header .icon {
+        width: 100%;
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    /* header end */
+    /* Main start */
+    .main {
+        background: #d00a2b;
+        position: static;
+    }
+    .main .fa-bars {
+        display: block;
+        padding-right: 10px;
+        padding-bottom: 15px;
+    }
+    .main .logo {
+        width: 40%;
+        padding: 0;
+        padding-left: 10px;
+    }
+    .main .all .x1 {
+        display: none;
+    }
+    .main .button {
+        display: none;
+    }
+    /* Main end */
+    /* Img-Text start */
+    .img-text {
+        width: 100%;
+        background-size: 100% 80%;
+        background-repeat: no-repeat;
+    }
+    .img-text p {
+        width: 100%;
+    }
+    .img-text h1 {
+        width: 100%;
+        font-size: 35px;
+    }
+    .img-text button {
+        margin-left: 30px;
+    }
+    .img-text .playbutton {
+        display: none;
+    }
+    .img-text .side {
+        display: none;
+    }
+    /* Img-Text end */
+    /* About-Section start */
+    .about-section {
+        margin-top: -20%;
+    }
+    .about-section .container {
+        width: 100%;
+    }
+    .about-section .section-title {
+        width: 100%;
+        height: 300px;
+    }
+    .about-section .about-thumb {
+        padding-left: 20px;
+    }
+    .about-section .about-thumb .video-play-btn {
+        left: 40%;
+    }
+    .about-section .section-title {
+        height: 500px;
+    }
+    .section-title h5 {
+        padding-top: 0;
+    }
+    .section-title h1 {
+        font-size: 25px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .about-icon i {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .about-title h2 {
+        font-size: 15px;
+    }
+    /* About-Section end */
+    /* Service-Section start */
+    .service-section {
+        margin-top: 200px;
+    }
+    .service-section .container {
+        width: 100%;
+    }
+    .service-section .text-center h1 {
+        font-size: 25px;
+    }
+    .service-section .service-single-box {
+        width: 100%;
+    }
+    .service-section .service-single-box .service-content {
+        padding-left: 37px;
+    }
+    .service-section .container .row .service-single-box::before {
+        margin-left: 37px;
+    }
+    .service-section .container .row .service-single-box:hover::before {
+        width: 24%;
+    }
+    .service-section .b {
+        display: none;
+    }
+    .service-section .container .dot {
+        margin-top: 55px;
+    }
+    /* Service-Section end */
+    /* Call-Do-Action start */
+    .call-do-action {
+        height: 550px;
+    }
+    .call-do-action .container-img {
+        padding: 0px 0px;
+    }
+    .call-do-action .container-img .bg-img {
+        height: 350px;
+        background-size: 200% 100%;
+    }
+    .call-do-action .container-img .video-play-btn-1 {
+        height: 70px;
+        width: 70px;
+        font-size: 20px;
+        left: 44%;
+    }
+    .call-do-action .container-img .video-play-btn-1 .spn01,
+    .spn02,
+    .spn03 {
+        height: 70px;
+        width: 70px;
+    }
+    /* Call-Do-Action end */
+    /* Feature-Section start */
+    .feature-section .container {
+        margin-top: 20px;
+        margin-left: 45px;
+    }
+    .feature-section .container .card {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .feature-section .container .box-icon {
+        left: 35%;
+    }
+    /* Feature-Section end */
+    /* Skill-Section start */
+    .skill-section {
+        margin-top: 1250px;
+        height: 1250px;
+    }
+    .skill-section .row-skill-bg {
+        height: 1050px;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .skill-section .row-skill-bg .box-bg {
+        margin-left: 20px;
+    }
+    .skill-section .row-skill-bg .box-bg .row-bg {
+        width: 100%;
+    }
+    .skill-section .row-skill-bg .box-bg .row-bg .text-title h1 {
+        font-size: 30px;
+    }
+    .skill-section .row-skill-bg .box-bg .row-bg .text-title h2 {
+        font-size: 30px;
+    }
+    .skill-section .row-skill-bg .box-bg .skill-bg {
+        height: 90%;
+        padding-top: 30px;
+        width: 100%;
+    }
+    /* Skill-Section end */
+    /* Working-Process-Section start */
+    .working-section {
+        padding: 100px 0px;
+        /* height: 900px; */
+    }
+    .working-section .working-row .work {
+        width: 100%;
+        font-size: 16px;
+        padding-left: 10px;
+    }
+    .working-section .working-row .work h1 {
+        font-size: 30px;
+    }
+    .working-section .working-row .work h2 {
+        font-size: 30px;
+    }
+    .working-section .working-row .succed {
+        width: 100%;
+        text-align: left;
+        margin-top: -50px;
+        padding-left: 10px;
+    }
+    .working-section .working-row .spend {
+        width: 100%;
+        text-align: left;
+        padding-top: 0px;
+        padding-left: 10px;
+    }
+    .working-chart {
+        margin-top: -80px;
+    }
+    .working-section .working-chart .chart1 {
+        width: 100%;
+        /* margin-top: 30px; */
+        /* margin-bottom: 30px; */
+        margin: 25px 10px;
+    }
+    .working-section .working-chart .chart1 .chart {
+        left: 40%;
+    }
+    .work-content {
+        padding-top: 40%;
+    }
+    .working-section .working-chart .work-icon {
+        left: 45%;
+    }
+    /* Working-Process-Section end */
+    /* Study-Section Start */
+    .study-section {
+        margin-top: 900px;
+    }
+    .img-1 {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+    .back {
+        width: 80%;
+    }
+    /* Study-Section End */
+    /* Contact-Us Start */
+    .touch {
+        width: 100%;
+    }
+    .touch-in {
+        margin-left: 0;
+        width: 100%;
+    }
+    .touch-in h1 {
+        font-size: 30px;
+    }
+    .touch-in p {
+        width: 100%;
+        font-size: 15.3px;
+    }
+    .icon-part {
+        padding: 10px 0px;
+    }
+    .form {
+        width: 100%;
+    }
+    .form-part {
+        width: 100%;
+        margin-left: 0;
+    }
+    .form-text {
+        margin-left: 25px;
+    }
+    .form-text-2 {
+        margin-left: 25px;
+    }
+    .txt-area-1 {
+        margin-left: 25px;
+        width: 87%;
+    }
+    .sub-txt-1 {
+        font-size: 13px;
+        width: 40%;
+        margin-left: 53%;
+    }
+    .fa-arrow-right {
+        padding: 0;
+    }
+    /* Contact-Us End */
+    /* TestiMonial-Section Start */
+    .testi-section {
+        margin-top: 600px;
+        height: 900px;
+    }
+    .test {
+        width: 100%;
+        margin: 0px;
+    }
+    .test-2 {
+        width: 90%;
+        margin: 0px;
+    }
+    .bc-arrow {
+        left: 56%;
+    }
+    .test-para {
+        width: 90%;
+        margin: 40px;
+        padding-top: 20px;
+    }
+    .test-left {
+        top: 63%;
+    }
+    .test-right {
+        top: 63%;
+    }
+    .test-3 {
+        padding-top: 200px;
+        padding-left: 60px;
+    }
+    .test-4 {
+        padding-left: 60px;
+    }
+    .doto {
+        padding-left: 60px;
+    }
+    /* TestiMonial-Section End */
+    /* Blogs-Section Start */
+    .blog {
+        height: 2000px;
+    }
+    .blog-pic {
+        width: 100%;
+        margin-top: 50px;
+    }
+    /* Blogs-Section End */
+    /* Brand-Section Start */
+    .brand-in {
+        width: 100%;
+        margin: 0;
+    }
+    .pg {
+        display: none;
+    }
+    .gp {
+        padding-top: 10px;
+        margin-left: 75px;
+    }
+    /* Brand-Section End */
+    /* Footer-Section Start */
+    .footer {
+        height: 1650px;
+    }
+    .footer-4 {
+        width: 100%;
+    }
+    .btn-control {
+        left: 47.5%;
+    }
+    /* Footer-Section End */
+    /* Footer-Bottom-Section-Start */
+    .footer-bottom {
+        height: 150px;
+    }
+    .bottom-side {
+        width: 100%;
+        text-align: center;
+    }
+    .bottom-side span {
+        float: left;
+        margin-left: 35px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    /* Footer-Bottom-Section-End */
+}
